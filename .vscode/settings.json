@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/.venv/daily/Lib",
+        "${workspaceFolder}/.venv/daily/Lib/site-packages",
+    ],
+    "python.autoComplete.preloadModules": [
+        "django",
+    ],
+}
